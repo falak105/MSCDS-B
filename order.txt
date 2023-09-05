@@ -1,6 +1,6 @@
 Todays Orders
 
- Name	:	Fay
- Item	:	Potato
- Price	:	25
+ Name	:	Frank
+ Item	:	Rice
+ Price	:	80
  Quantity	:	2kg
