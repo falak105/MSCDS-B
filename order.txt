@@ -1,6 +1,6 @@
 Todays Orders
 
- Name	:	Frank
+ Name	:	Mahek
  Item	:	Rice
- Price	:	80
- Quantity	:	2kg
+ Price	:	70
+ Quantity	:	5kg
