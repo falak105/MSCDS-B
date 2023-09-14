@@ -1,101 +1,101 @@
-Item,Quantity,Price
-Oil,1,8.23
-Dal,6,4.28
-Milk,2,2.57
-Oil,10,8.23
-Coffee,9,8.82
-potato,1,6.64
-Tea,5,2.39
-potato,10,6.64
-Milk,4,2.57
-Rice,8,9.86
-potato,8,6.64
-Dal,3,4.28
-Rice,1,9.86
-Rice,1,9.86
-Tomato,6,8.25
-potato,9,6.64
-Coffee,1,8.82
-potato,7,6.64
-Oil,3,8.23
-potato,8,6.64
-Dal,9,4.28
-salt,5,1.86
-potato,5,6.64
-Milk,10,2.57
-Coffee,1,8.82
-Milk,1,2.57
-Rice,6,9.86
-Tea,8,2.39
-Milk,10,2.57
-Onion,8,2.93
-Milk,7,2.57
-Oil,4,8.23
-Rice,10,9.86
-Dal,4,4.28
-Onion,4,2.93
-potato,3,6.64
-Rice,4,9.86
-potato,10,6.64
-Tomato,7,8.25
-potato,5,6.64
-Tomato,4,8.25
-Rice,10,9.86
-Tea,2,2.39
-Oil,9,8.23
-Tomato,2,8.25
-Tea,10,2.39
-Tomato,1,8.25
-salt,6,1.86
-salt,6,1.86
-salt,8,1.86
-Onion,10,2.93
-Rice,10,9.86
-potato,5,6.64
-Tomato,10,8.25
-Onion,10,2.93
-Onion,6,2.93
-Dal,7,4.28
-Tomato,1,8.25
-Milk,4,2.57
-salt,6,1.86
-Rice,10,9.86
-Oil,6,8.23
-salt,8,1.86
-Milk,8,2.57
-Tomato,2,8.25
-Rice,7,9.86
-Coffee,1,8.82
-potato,9,6.64
-salt,8,1.86
-Onion,1,2.93
-potato,8,6.64
-potato,7,6.64
-Tea,3,2.39
-Rice,10,9.86
-Tea,10,2.39
-salt,1,1.86
-Rice,10,9.86
-Onion,7,2.93
-Onion,4,2.93
-salt,8,1.86
-Milk,7,2.57
-Milk,6,2.57
-potato,7,6.64
-Dal,4,4.28
-Onion,6,2.93
-Milk,6,2.57
-Rice,1,9.86
-Dal,7,4.28
-potato,1,6.64
-salt,4,1.86
-Tea,7,2.39
-potato,2,6.64
-Tea,6,2.39
-Dal,1,4.28
-Tomato,8,8.25
-Coffee,3,8.82
-Onion,6,2.93
-Oil,9,8.23
-Milk,3,2.57
-salt,3,1.86
+Item	Quantity	Price
+salt	9	9.25
+Dal	10	1.95
+Coffee	8	9.04
+Tomato	3	2.99
+Tea	6	7.81
+Tea	3	7.81
+potato	6	4.53
+potato	1	4.53
+Tomato	7	2.99
+Tomato	6	2.99
+Onion	10	2.79
+Oil	8	4.67
+Milk	9	2.6
+Oil	4	4.67
+potato	5	4.53
+Dal	2	1.95
+Onion	3	2.79
+Onion	3	2.79
+salt	1	9.25
+Oil	3	4.67
+Rice	8	9.26
+Milk	3	2.6
+Tomato	1	2.99
+salt	2	9.25
+potato	10	4.53
+Tea	10	7.81
+Tomato	8	2.99
+Oil	10	4.67
+Rice	3	9.26
+Dal	5	1.95
+Onion	10	2.79
+Dal	8	1.95
+salt	6	9.25
+Onion	4	2.79
+Rice	6	9.26
+Dal	6	1.95
+salt	3	9.25
+Milk	2	2.6
+Onion	9	2.79
+Dal	7	1.95
+salt	3	9.25
+Oil	9	4.67
+Milk	9	2.6
+Oil	10	4.67
+Coffee	4	9.04
+Dal	4	1.95
+Oil	5	4.67
+Coffee	4	9.04
+Tomato	5	2.99
+Rice	3	9.26
+Dal	2	1.95
+Tomato	3	2.99
+Onion	5	2.79
+Oil	6	4.67
+Oil	3	4.67
+Milk	7	2.6
+Milk	9	2.6
+Oil	4	4.67
+Dal	3	1.95
+Tomato	2	2.99
+Onion	6	2.79
+Coffee	1	9.04
+potato	4	4.53
+Rice	1	9.26
+potato	8	4.53
+Onion	2	2.79
+Coffee	3	9.04
+potato	7	4.53
+Tea	8	7.81
+Tomato	10	2.99
+Tomato	9	2.99
+Coffee	9	9.04
+Rice	5	9.26
+Tea	6	7.81
+Tea	5	7.81
+Onion	8	2.79
+Tea	3	7.81
+Coffee	6	9.04
+Onion	4	2.79
+Tea	2	7.81
+Dal	3	1.95
+Onion	1	2.79
+salt	5	9.25
+Oil	5	4.67
+Onion	10	2.79
+Rice	6	9.26
+potato	5	4.53
+Coffee	9	9.04
+Tomato	10	2.99
+Tomato	4	2.99
+potato	7	4.53
+Oil	7	4.67
+Oil	2	4.67
+salt	4	9.25
+Tomato	6	2.99
+potato	10	4.53
+Coffee	8	9.04
+Oil	9	4.67
+Rice	1	9.26
+salt	7	9.25
